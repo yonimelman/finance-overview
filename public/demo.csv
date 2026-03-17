@@ -1,0 +1,14 @@
+source,id,name,units,currency,manual_value,manual_date,group
+stock,WIX,Wix,50,USD,,,Stocks
+stock,VWRA.L,Vanguard All-World,100,USD,,,Stocks
+stock,IMID.L,iShares Mid-Cap,200,USD,,,Stocks
+tase_stock,IS-FF505.TA,IShares S&P500,200,ILA,,,Stocks
+tase_stock,IS-FF702.TA,IShares MSCI World,100,ILA,,,Stocks
+stonks,5117429,Meitav Caspit USD,1000,USD,,,Money Funds
+stonks,5127881,Keren Kaspit A,1000,ILS,,,Money Funds
+stonks,5117700,Keren Kaspit B,500,ILS,,,Money Funds
+crypto,bitcoin,Bitcoin,0.5,USD,,,Crypto
+crypto,ethereum,Ethereum,3,USD,,,Crypto
+education_fund,edu1,Keren Hishtalmut,1,ILS,85000,Mar 10,Education
+cash,cash_usd,USD Cash,10000,USD,,,Cash
+cash,cash_nis,NIS Cash,25000,ILS,,,Cash
