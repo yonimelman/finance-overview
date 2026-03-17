@@ -4,6 +4,7 @@ import react from '@vitejs/plugin-react'
 const BROWSER_UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
 
 export default defineConfig({
+  base: '/finance-overview/',
   plugins: [react()],
   server: {
     proxy: {
